@@ -5,7 +5,7 @@
 This repository showcases my implementation of a UI component that visualizes a comments feature for web applications. I created a pixel-perfect translation of the design into a functional, accessible, and performant component using Next.js.
 
 ### Live Demo & Design Source
-- **Live Demo**: [View the live implementation](https://your-deployment-url-here)
+- **Live Demo**: [View the live implementation](https://comments-ivory-six.vercel.app)
 - **Figma Design**: [View the original design](https://www.figma.com/design/EfGAbjGbcbcZY5MnLTdrae/Comments-UI?node-id=0-1&t=MqXtG1hauu3HZ21N-1)
 
 ### What I Built
